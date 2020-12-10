@@ -3,4 +3,4 @@
 	url = https://github.com/WordsofDefiance/react-notes-client/
 [submodule "server"]
 	path = server
-	url = https://github.com/WordsofDefiance/react-notes-client/
+	url = https://github.com/WordsofDefiance/react-notes-server/
